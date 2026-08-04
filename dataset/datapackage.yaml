@@ -2,7 +2,7 @@ name: portal_obras
 owner_org: departamento-de-estradas-de-rodagem-de-minas-gerais
 profile: data-package
 resources:
-  - description: Conjunto de dados que reúne informações de obras públicas realizadas pelos órgãos e entidades do Poder Executivo do Estado de Minas Gerais.
+  - description: Conjunto de dados que reúne informações de obras públicas realizadas pelos órgãos e entidades do Poder Executivo do Estado de Minas Gerais
     dialect:
       delimiter: ;
     encoding: utf-8-sig
