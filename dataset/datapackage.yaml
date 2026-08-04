@@ -74,8 +74,7 @@ resources:
           type: string
     scheme: file
     title: Contratos
-  - description: Insira a descrição/explicação detalhada deste recurso.
-    dialect:
+  - dialect:
       delimiter: ;
     encoding: utf-8-sig
     format: csv
@@ -175,8 +174,7 @@ resources:
           type: string
     scheme: file
     title: Contratos SIAD
-  - description: Insira a descrição/explicação detalhada deste recurso.
-    dialect:
+  - dialect:
       delimiter: ;
     encoding: utf-8-sig
     format: csv
@@ -200,8 +198,7 @@ resources:
           type: string
     scheme: file
     title: Coordenadas
-  - description: Insira a descrição/explicação detalhada deste recurso.
-    dialect:
+  - dialect:
       delimiter: ;
     encoding: utf-8-sig
     format: csv
@@ -227,8 +224,7 @@ resources:
           type: string
     scheme: file
     title: Fiscais
-  - description: Insira a descrição/explicação detalhada deste recurso.
-    dialect:
+  - dialect:
       delimiter: ;
     encoding: utf-8-sig
     format: csv
@@ -272,8 +268,7 @@ resources:
           type: string
     scheme: file
     title: Itens
-  - description: Insira a descrição/explicação detalhada deste recurso.
-    dialect:
+  - dialect:
       delimiter: ;
     encoding: utf-8-sig
     format: csv
@@ -295,8 +290,7 @@ resources:
           type: string
     scheme: file
     title: Municípios
-  - description: Insira a descrição/explicação detalhada deste recurso.
-    dialect:
+  - dialect:
       delimiter: ;
     encoding: utf-8-sig
     format: csv
@@ -332,8 +326,7 @@ resources:
           type: string
     scheme: file
     title: Obras
-  - description: Insira a descrição/explicação detalhada deste recurso.
-    dialect:
+  - dialect:
       delimiter: ;
     encoding: utf-8-sig
     format: csv
@@ -359,8 +352,7 @@ resources:
           type: string
     scheme: file
     title: Situação.
-  - description: Insira a descrição/explicação detalhada deste recurso.
-    dialect:
+  - dialect:
       delimiter: ;
     encoding: utf-8-sig
     format: csv
