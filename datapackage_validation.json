@@ -1,11 +1,11 @@
 {
   "version": "4.16.6",
-  "time": 0.887,
+  "time": 0.704,
   "errors": [],
   "tasks": [
     {
       "resource": {
-        "description": "Insira a descrição/explicação detalhada deste recurso.",
+        "description": "Conjunto de dados que reúne informações de obras públicas realizadas pelos órgãos e entidades do Poder Executivo do Estado de Minas Gerais.",
         "dialect": {
           "delimiter": ";"
         },
@@ -140,7 +140,7 @@
           ]
         },
         "scheme": "file",
-        "title": "Insira um título humanamente legível para este recurso.",
+        "title": "Contratos.",
         "stats": {
           "hash": "54fb53f65015cbd3cc158a5dbfd12afb",
           "bytes": 558967,
@@ -148,7 +148,7 @@
           "rows": 636
         }
       },
-      "time": 0.095,
+      "time": 0.078,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -377,7 +377,7 @@
           "rows": 0
         }
       },
-      "time": 0.096,
+      "time": 0.076,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -84486,7 +84486,7 @@
           "rows": 881
         }
       },
-      "time": 0.026,
+      "time": 0.021,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -84567,7 +84567,7 @@
           "rows": 5263
         }
       },
-      "time": 0.109,
+      "time": 0.09,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -86467,7 +86467,7 @@
           "rows": 0
         }
       },
-      "time": 0.06,
+      "time": 0.047,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -120549,7 +120549,7 @@
           "rows": 8236
         }
       },
-      "time": 0.135,
+      "time": 0.108,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -120650,7 +120650,7 @@
           "rows": 731
         }
       },
-      "time": 0.035,
+      "time": 0.029,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -120731,7 +120731,7 @@
           "rows": 2094
         }
       },
-      "time": 0.072,
+      "time": 0.053,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -120824,7 +120824,7 @@
           "rows": 4799
         }
       },
-      "time": 0.131,
+      "time": 0.102,
       "scope": [
         "hash-count-error",
         "byte-count-error",
