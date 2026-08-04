@@ -1,11 +1,10 @@
 {
   "version": "4.16.6",
-  "time": 0.873,
+  "time": 0.819,
   "errors": [],
   "tasks": [
     {
       "resource": {
-        "description": "Conjunto de dados que reúne informações de obras públicas realizadas pelos órgãos e entidades do Poder Executivo do Estado de Minas Gerais",
         "dialect": {
           "delimiter": ";"
         },
@@ -148,7 +147,7 @@
           "rows": 636
         }
       },
-      "time": 0.092,
+      "time": 0.09,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -377,7 +376,7 @@
           "rows": 0
         }
       },
-      "time": 0.097,
+      "time": 0.089,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -84486,7 +84485,7 @@
           "rows": 881
         }
       },
-      "time": 0.025,
+      "time": 0.024,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -84567,7 +84566,7 @@
           "rows": 5263
         }
       },
-      "time": 0.109,
+      "time": 0.106,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -86467,7 +86466,7 @@
           "rows": 0
         }
       },
-      "time": 0.059,
+      "time": 0.051,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -120549,7 +120548,7 @@
           "rows": 8236
         }
       },
-      "time": 0.131,
+      "time": 0.129,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -120650,7 +120649,7 @@
           "rows": 731
         }
       },
-      "time": 0.034,
+      "time": 0.033,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -120731,7 +120730,7 @@
           "rows": 2094
         }
       },
-      "time": 0.07,
+      "time": 0.06,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -120824,7 +120823,7 @@
           "rows": 4799
         }
       },
-      "time": 0.128,
+      "time": 0.123,
       "scope": [
         "hash-count-error",
         "byte-count-error",
