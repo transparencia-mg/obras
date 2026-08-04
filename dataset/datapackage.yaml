@@ -74,7 +74,7 @@ resources:
         - name: percentual_execucao_contrato
           type: string
     scheme: file
-    title: Contratos.
+    title: Contratos
   - description: Insira a descrição/explicação detalhada deste recurso.
     dialect:
       delimiter: ;
@@ -175,7 +175,7 @@ resources:
         - name: valor_despesa_liquidada
           type: string
     scheme: file
-    title: Insira um título humanamente legível para este recurso.
+    title: Contratos SIAD
   - description: Insira a descrição/explicação detalhada deste recurso.
     dialect:
       delimiter: ;
@@ -200,7 +200,7 @@ resources:
         - name: portal_de_compras
           type: string
     scheme: file
-    title: Insira um título humanamente legível para este recurso.
+    title: Coordenadas
   - description: Insira a descrição/explicação detalhada deste recurso.
     dialect:
       delimiter: ;
@@ -227,7 +227,7 @@ resources:
         - name: cargo
           type: string
     scheme: file
-    title: Insira um título humanamente legível para este recurso.
+    title: Fiscais
   - description: Insira a descrição/explicação detalhada deste recurso.
     dialect:
       delimiter: ;
@@ -272,7 +272,7 @@ resources:
         - name: valor_total_homologado
           type: string
     scheme: file
-    title: Insira um título humanamente legível para este recurso.
+    title: Itens
   - description: Insira a descrição/explicação detalhada deste recurso.
     dialect:
       delimiter: ;
@@ -295,7 +295,7 @@ resources:
         - name: portal_de_compras
           type: string
     scheme: file
-    title: Insira um título humanamente legível para este recurso.
+    title: Municípios
   - description: Insira a descrição/explicação detalhada deste recurso.
     dialect:
       delimiter: ;
@@ -332,7 +332,7 @@ resources:
         - name: portal_de_compras
           type: string
     scheme: file
-    title: Insira um título humanamente legível para este recurso.
+    title: Obras
   - description: Insira a descrição/explicação detalhada deste recurso.
     dialect:
       delimiter: ;
@@ -359,7 +359,7 @@ resources:
         - name: portal_de_compras
           type: string
     scheme: file
-    title: Insira um título humanamente legível para este recurso.
+    title: Situação.
   - description: Insira a descrição/explicação detalhada deste recurso.
     dialect:
       delimiter: ;
@@ -392,5 +392,5 @@ resources:
         - name: portal_de_compras
           type: string
     scheme: file
-    title: Insira um título humanamente legível para este recurso.
+    title: Trechos
 title: Obras Públicas
