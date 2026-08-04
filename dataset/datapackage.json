@@ -141,7 +141,6 @@
       "title": "Contratos"
     },
     {
-      "description": "Insira a descrição/explicação detalhada deste recurso.",
       "dialect": {
         "delimiter": ";"
       },
@@ -335,7 +334,6 @@
       "title": "Contratos SIAD"
     },
     {
-      "description": "Insira a descrição/explicação detalhada deste recurso.",
       "dialect": {
         "delimiter": ";"
       },
@@ -377,7 +375,6 @@
       "title": "Coordenadas"
     },
     {
-      "description": "Insira a descrição/explicação detalhada deste recurso.",
       "dialect": {
         "delimiter": ";"
       },
@@ -423,7 +420,6 @@
       "title": "Fiscais"
     },
     {
-      "description": "Insira a descrição/explicação detalhada deste recurso.",
       "dialect": {
         "delimiter": ";"
       },
@@ -505,7 +501,6 @@
       "title": "Itens"
     },
     {
-      "description": "Insira a descrição/explicação detalhada deste recurso.",
       "dialect": {
         "delimiter": ";"
       },
@@ -543,7 +538,6 @@
       "title": "Municípios"
     },
     {
-      "description": "Insira a descrição/explicação detalhada deste recurso.",
       "dialect": {
         "delimiter": ";"
       },
@@ -609,7 +603,6 @@
       "title": "Obras"
     },
     {
-      "description": "Insira a descrição/explicação detalhada deste recurso.",
       "dialect": {
         "delimiter": ";"
       },
@@ -655,7 +648,6 @@
       "title": "Situação."
     },
     {
-      "description": "Insira a descrição/explicação detalhada deste recurso.",
       "dialect": {
         "delimiter": ";"
       },
