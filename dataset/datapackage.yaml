@@ -2,7 +2,7 @@ name: portal_obras
 owner_org: departamento-de-estradas-de-rodagem-de-minas-gerais
 profile: data-package
 resources:
-  - description: Insira a descrição/explicação detalhada deste recurso.
+  - description: Conjunto de dados que reúne informações de obras públicas realizadas pelos órgãos e entidades do Poder Executivo do Estado de Minas Gerais.
     dialect:
       delimiter: ;
     encoding: utf-8-sig
@@ -74,7 +74,7 @@ resources:
         - name: percentual_execucao_contrato
           type: string
     scheme: file
-    title: Insira um título humanamente legível para este recurso.
+    title: Contratos.
   - description: Insira a descrição/explicação detalhada deste recurso.
     dialect:
       delimiter: ;
@@ -393,4 +393,4 @@ resources:
           type: string
     scheme: file
     title: Insira um título humanamente legível para este recurso.
-title: Portal_obras
+title: Obras Públicas
