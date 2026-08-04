@@ -1,6 +1,6 @@
 {
   "version": "4.16.6",
-  "time": 0.819,
+  "time": 0.881,
   "errors": [],
   "tasks": [
     {
@@ -147,7 +147,7 @@
           "rows": 636
         }
       },
-      "time": 0.09,
+      "time": 0.094,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -177,7 +177,6 @@
     },
     {
       "resource": {
-        "description": "Insira a descrição/explicação detalhada deste recurso.",
         "dialect": {
           "delimiter": ";"
         },
@@ -376,7 +375,7 @@
           "rows": 0
         }
       },
-      "time": 0.089,
+      "time": 0.097,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -84438,7 +84437,6 @@
     },
     {
       "resource": {
-        "description": "Insira a descrição/explicação detalhada deste recurso.",
         "dialect": {
           "delimiter": ";"
         },
@@ -84485,7 +84483,7 @@
           "rows": 881
         }
       },
-      "time": 0.024,
+      "time": 0.026,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -84515,7 +84513,6 @@
     },
     {
       "resource": {
-        "description": "Insira a descrição/explicação detalhada deste recurso.",
         "dialect": {
           "delimiter": ";"
         },
@@ -84566,7 +84563,7 @@
           "rows": 5263
         }
       },
-      "time": 0.106,
+      "time": 0.11,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -86379,7 +86376,6 @@
     },
     {
       "resource": {
-        "description": "Insira a descrição/explicação detalhada deste recurso.",
         "dialect": {
           "delimiter": ";"
         },
@@ -86466,7 +86462,7 @@
           "rows": 0
         }
       },
-      "time": 0.051,
+      "time": 0.06,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -120505,7 +120501,6 @@
     },
     {
       "resource": {
-        "description": "Insira a descrição/explicação detalhada deste recurso.",
         "dialect": {
           "delimiter": ";"
         },
@@ -120548,7 +120543,7 @@
           "rows": 8236
         }
       },
-      "time": 0.129,
+      "time": 0.13,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -120578,7 +120573,6 @@
     },
     {
       "resource": {
-        "description": "Insira a descrição/explicação detalhada deste recurso.",
         "dialect": {
           "delimiter": ";"
         },
@@ -120649,7 +120643,7 @@
           "rows": 731
         }
       },
-      "time": 0.033,
+      "time": 0.034,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -120679,7 +120673,6 @@
     },
     {
       "resource": {
-        "description": "Insira a descrição/explicação detalhada deste recurso.",
         "dialect": {
           "delimiter": ";"
         },
@@ -120730,7 +120723,7 @@
           "rows": 2094
         }
       },
-      "time": 0.06,
+      "time": 0.071,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -120760,7 +120753,6 @@
     },
     {
       "resource": {
-        "description": "Insira a descrição/explicação detalhada deste recurso.",
         "dialect": {
           "delimiter": ";"
         },
@@ -120823,7 +120815,7 @@
           "rows": 4799
         }
       },
-      "time": 0.123,
+      "time": 0.131,
       "scope": [
         "hash-count-error",
         "byte-count-error",
