@@ -1,6 +1,6 @@
 {
   "version": "4.16.6",
-  "time": 0.886,
+  "time": 0.873,
   "errors": [],
   "tasks": [
     {
@@ -140,7 +140,7 @@
           ]
         },
         "scheme": "file",
-        "title": "Contratos.",
+        "title": "Contratos",
         "stats": {
           "hash": "54fb53f65015cbd3cc158a5dbfd12afb",
           "bytes": 558967,
@@ -148,7 +148,7 @@
           "rows": 636
         }
       },
-      "time": 0.095,
+      "time": 0.092,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -369,7 +369,7 @@
           ]
         },
         "scheme": "file",
-        "title": "Insira um título humanamente legível para este recurso.",
+        "title": "Contratos SIAD",
         "stats": {
           "hash": "",
           "bytes": 0,
@@ -84478,7 +84478,7 @@
           ]
         },
         "scheme": "file",
-        "title": "Insira um título humanamente legível para este recurso.",
+        "title": "Coordenadas",
         "stats": {
           "hash": "4ec1310104d0c66c40a352f0d1965096",
           "bytes": 61277,
@@ -84559,7 +84559,7 @@
           ]
         },
         "scheme": "file",
-        "title": "Insira um título humanamente legível para este recurso.",
+        "title": "Fiscais",
         "stats": {
           "hash": "60bbe2b3f4ec76b62d338e27e8a43582",
           "bytes": 633555,
@@ -84567,7 +84567,7 @@
           "rows": 5263
         }
       },
-      "time": 0.108,
+      "time": 0.109,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -86459,7 +86459,7 @@
           ]
         },
         "scheme": "file",
-        "title": "Insira um título humanamente legível para este recurso.",
+        "title": "Itens",
         "stats": {
           "hash": "",
           "bytes": 0,
@@ -86467,7 +86467,7 @@
           "rows": 0
         }
       },
-      "time": 0.061,
+      "time": 0.059,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -120541,7 +120541,7 @@
           ]
         },
         "scheme": "file",
-        "title": "Insira um título humanamente legível para este recurso.",
+        "title": "Municípios",
         "stats": {
           "hash": "8453b7666a5b4da179d763801ffcf8f8",
           "bytes": 527667,
@@ -120642,7 +120642,7 @@
           ]
         },
         "scheme": "file",
-        "title": "Insira um título humanamente legível para este recurso.",
+        "title": "Obras",
         "stats": {
           "hash": "a5788b4cd14cd879f416c466c9aa3c41",
           "bytes": 168895,
@@ -120723,7 +120723,7 @@
           ]
         },
         "scheme": "file",
-        "title": "Insira um título humanamente legível para este recurso.",
+        "title": "Situação.",
         "stats": {
           "hash": "47732a0795fba4560eadadfbada83053",
           "bytes": 174065,
@@ -120731,7 +120731,7 @@
           "rows": 2094
         }
       },
-      "time": 0.073,
+      "time": 0.07,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -120816,7 +120816,7 @@
           ]
         },
         "scheme": "file",
-        "title": "Insira um título humanamente legível para este recurso.",
+        "title": "Trechos",
         "stats": {
           "hash": "6acc57aa3d89e14d48a92431c2a9c169",
           "bytes": 612034,
@@ -120824,7 +120824,7 @@
           "rows": 4799
         }
       },
-      "time": 0.133,
+      "time": 0.128,
       "scope": [
         "hash-count-error",
         "byte-count-error",
