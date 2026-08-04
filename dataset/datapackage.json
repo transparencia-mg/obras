@@ -4,7 +4,7 @@
   "profile": "data-package",
   "resources": [
     {
-      "description": "Insira a descrição/explicação detalhada deste recurso.",
+      "description": "Conjunto de dados que reúne informações de obras públicas realizadas pelos órgãos e entidades do Poder Executivo do Estado de Minas Gerais.",
       "dialect": {
         "delimiter": ";"
       },
@@ -139,7 +139,7 @@
         ]
       },
       "scheme": "file",
-      "title": "Insira um título humanamente legível para este recurso."
+      "title": "Contratos."
     },
     {
       "description": "Insira a descrição/explicação detalhada deste recurso.",
@@ -714,5 +714,5 @@
       "title": "Insira um título humanamente legível para este recurso."
     }
   ],
-  "title": "Portal_obras"
+  "title": "Obras Públicas"
 }
