@@ -1,6 +1,6 @@
 {
   "version": "4.16.6",
-  "time": 0.881,
+  "time": 0.827,
   "errors": [],
   "tasks": [
     {
@@ -141,13 +141,13 @@
         "scheme": "file",
         "title": "Contratos",
         "stats": {
-          "hash": "54fb53f65015cbd3cc158a5dbfd12afb",
-          "bytes": 558967,
+          "hash": "0392340fc300c650360e71c9db54eae8",
+          "bytes": 559243,
           "fields": 30,
           "rows": 636
         }
       },
-      "time": 0.094,
+      "time": 0.086,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -375,7 +375,7 @@
           "rows": 0
         }
       },
-      "time": 0.097,
+      "time": 0.094,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -84483,7 +84483,7 @@
           "rows": 881
         }
       },
-      "time": 0.026,
+      "time": 0.024,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -84557,13 +84557,13 @@
         "scheme": "file",
         "title": "Fiscais",
         "stats": {
-          "hash": "60bbe2b3f4ec76b62d338e27e8a43582",
-          "bytes": 633555,
+          "hash": "479ffd5e88bb0f40e4783225e050d3fa",
+          "bytes": 635461,
           "fields": 7,
-          "rows": 5263
+          "rows": 5279
         }
       },
-      "time": 0.11,
+      "time": 0.105,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -86462,7 +86462,7 @@
           "rows": 0
         }
       },
-      "time": 0.06,
+      "time": 0.066,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -120543,7 +120543,7 @@
           "rows": 8236
         }
       },
-      "time": 0.13,
+      "time": 0.127,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -120637,13 +120637,13 @@
         "scheme": "file",
         "title": "Obras",
         "stats": {
-          "hash": "a5788b4cd14cd879f416c466c9aa3c41",
-          "bytes": 168895,
+          "hash": "3f6390267f03d06fa5aa582b726c5abe",
+          "bytes": 168927,
           "fields": 12,
           "rows": 731
         }
       },
-      "time": 0.034,
+      "time": 0.032,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -120723,7 +120723,7 @@
           "rows": 2094
         }
       },
-      "time": 0.071,
+      "time": 0.059,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -120809,13 +120809,13 @@
         "scheme": "file",
         "title": "Trechos",
         "stats": {
-          "hash": "6acc57aa3d89e14d48a92431c2a9c169",
+          "hash": "47145afda275ebcb188e6c1195f51c52",
           "bytes": 612034,
           "fields": 10,
           "rows": 4799
         }
       },
-      "time": 0.131,
+      "time": 0.119,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -121095,8 +121095,8 @@
             "",
             "2301601 000001/2023"
           ],
-          "rowNumber": 4605,
-          "rowPosition": 4606,
+          "rowNumber": 4604,
+          "rowPosition": 4605,
           "code": "type-error",
           "name": "Type Error",
           "tags": [
@@ -121105,7 +121105,7 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"S/N\" in row \"4606\" and field \"contrato_siad\" at position \"2\": type is \"integer/default\"",
+          "message": "Type error in the cell \"S/N\" in row \"4605\" and field \"contrato_siad\" at position \"2\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
@@ -121185,8 +121185,8 @@
             "",
             "Não Disponível"
           ],
-          "rowNumber": 4637,
-          "rowPosition": 4638,
+          "rowNumber": 4638,
+          "rowPosition": 4639,
           "code": "type-error",
           "name": "Type Error",
           "tags": [
@@ -121195,7 +121195,7 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"Em andamento\" in row \"4638\" and field \"contrato_siad\" at position \"2\": type is \"integer/default\"",
+          "message": "Type error in the cell \"Em andamento\" in row \"4639\" and field \"contrato_siad\" at position \"2\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
