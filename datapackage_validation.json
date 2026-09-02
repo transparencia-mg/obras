@@ -1,6 +1,6 @@
 {
   "version": "4.16.6",
-  "time": 0.892,
+  "time": 0.865,
   "errors": [],
   "tasks": [
     {
@@ -141,10 +141,10 @@
         "scheme": "file",
         "title": "Contratos",
         "stats": {
-          "hash": "ab897ee45472d4118ccbc00b5a1592d1",
-          "bytes": 566226,
+          "hash": "7215cfccc6c191654097fe73640ae880",
+          "bytes": 571206,
           "fields": 30,
-          "rows": 644
+          "rows": 650
         }
       },
       "time": 0.084,
@@ -375,7 +375,7 @@
           "rows": 0
         }
       },
-      "time": 0.09,
+      "time": 0.082,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -84477,10 +84477,10 @@
         "scheme": "file",
         "title": "Coordenadas",
         "stats": {
-          "hash": "d8a2dbf35a456bf3aab4f924156648e2",
-          "bytes": 61984,
+          "hash": "17c60951c3a5589a54eb98664448ee1d",
+          "bytes": 62908,
           "fields": 6,
-          "rows": 896
+          "rows": 908
         }
       },
       "time": 0.026,
@@ -84557,13 +84557,13 @@
         "scheme": "file",
         "title": "Fiscais",
         "stats": {
-          "hash": "b44b484d04e38235a93a59cafa9ef9e8",
-          "bytes": 641136,
+          "hash": "b3852cb07512dfd2ff1288de6b8e2f78",
+          "bytes": 646706,
           "fields": 7,
-          "rows": 5333
+          "rows": 5377
         }
       },
-      "time": 0.11,
+      "time": 0.109,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -120645,13 +120645,13 @@
         "scheme": "file",
         "title": "Municípios",
         "stats": {
-          "hash": "9bbade879f07a12c05847b41148dfd55",
-          "bytes": 525674,
+          "hash": "747a54d9e2df9a8a4c4cf9b99ed0f204",
+          "bytes": 526182,
           "fields": 5,
-          "rows": 8259
+          "rows": 8267
         }
       },
-      "time": 0.139,
+      "time": 0.131,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -120745,13 +120745,13 @@
         "scheme": "file",
         "title": "Obras",
         "stats": {
-          "hash": "f8cd93c708e2482ddf77c99cf566eef1",
-          "bytes": 170603,
+          "hash": "cb9d75dc5f48b2ac5f3c5027079b220f",
+          "bytes": 172667,
           "fields": 12,
-          "rows": 739
+          "rows": 747
         }
       },
-      "time": 0.035,
+      "time": 0.036,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -120825,13 +120825,13 @@
         "scheme": "file",
         "title": "Situação.",
         "stats": {
-          "hash": "8dc303c8adf739433fff922863bdb3c5",
-          "bytes": 174883,
+          "hash": "da55040932413346821c6ea2a25c9c0c",
+          "bytes": 175347,
           "fields": 7,
-          "rows": 2109
+          "rows": 2115
         }
       },
-      "time": 0.072,
+      "time": 0.07,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -120917,10 +120917,10 @@
         "scheme": "file",
         "title": "Trechos",
         "stats": {
-          "hash": "f844e07d5bcb3636a4973726e3e2fc65",
-          "bytes": 611893,
+          "hash": "ad7ebd269fe855b0b0ba7b786a6d6445",
+          "bytes": 612353,
           "fields": 10,
-          "rows": 4807
+          "rows": 4815
         }
       },
       "time": 0.129,
@@ -121173,36 +121173,6 @@
             "",
             "2301520 000006/2020"
           ],
-          "rowNumber": 4602,
-          "rowPosition": 4603,
-          "code": "type-error",
-          "name": "Type Error",
-          "tags": [
-            "#table",
-            "#row",
-            "#cell"
-          ],
-          "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"Rescindido\" in row \"4603\" and field \"contrato_siad\" at position \"2\": type is \"integer/default\"",
-          "description": "The value does not match the schema type and format for this field."
-        },
-        {
-          "cell": "Registro de Preços",
-          "fieldName": "contrato_siad",
-          "fieldNumber": 2,
-          "fieldPosition": 2,
-          "cells": [
-            "ATA RP-LOTE 1",
-            "Registro de Preços",
-            "Obra 1",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "2301601 000001/2023"
-          ],
           "rowNumber": 4604,
           "rowPosition": 4605,
           "code": "type-error",
@@ -121213,7 +121183,7 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"Registro de Preços\" in row \"4605\" and field \"contrato_siad\" at position \"2\": type is \"integer/default\"",
+          "message": "Type error in the cell \"Rescindido\" in row \"4605\" and field \"contrato_siad\" at position \"2\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
@@ -121222,7 +121192,7 @@
           "fieldNumber": 2,
           "fieldPosition": 2,
           "cells": [
-            "ATA RP-LOTE 3",
+            "ATA RP-LOTE 1",
             "Registro de Preços",
             "Obra 1",
             "",
@@ -121247,6 +121217,36 @@
           "description": "The value does not match the schema type and format for this field."
         },
         {
+          "cell": "Registro de Preços",
+          "fieldName": "contrato_siad",
+          "fieldNumber": 2,
+          "fieldPosition": 2,
+          "cells": [
+            "ATA RP-LOTE 3",
+            "Registro de Preços",
+            "Obra 1",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "2301601 000001/2023"
+          ],
+          "rowNumber": 4608,
+          "rowPosition": 4609,
+          "code": "type-error",
+          "name": "Type Error",
+          "tags": [
+            "#table",
+            "#row",
+            "#cell"
+          ],
+          "note": "type is \"integer/default\"",
+          "message": "Type error in the cell \"Registro de Preços\" in row \"4609\" and field \"contrato_siad\" at position \"2\": type is \"integer/default\"",
+          "description": "The value does not match the schema type and format for this field."
+        },
+        {
           "cell": "Concluído",
           "fieldName": "contrato_siad",
           "fieldNumber": 2,
@@ -121263,8 +121263,8 @@
             "",
             "Não Disponível"
           ],
-          "rowNumber": 4617,
-          "rowPosition": 4618,
+          "rowNumber": 4619,
+          "rowPosition": 4620,
           "code": "type-error",
           "name": "Type Error",
           "tags": [
@@ -121273,7 +121273,7 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"Concluído\" in row \"4618\" and field \"contrato_siad\" at position \"2\": type is \"integer/default\"",
+          "message": "Type error in the cell \"Concluído\" in row \"4620\" and field \"contrato_siad\" at position \"2\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
@@ -121293,8 +121293,8 @@
             "",
             "Não Disponível"
           ],
-          "rowNumber": 4639,
-          "rowPosition": 4640,
+          "rowNumber": 4643,
+          "rowPosition": 4644,
           "code": "type-error",
           "name": "Type Error",
           "tags": [
@@ -121303,7 +121303,7 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"Em andamento\" in row \"4640\" and field \"contrato_siad\" at position \"2\": type is \"integer/default\"",
+          "message": "Type error in the cell \"Em andamento\" in row \"4644\" and field \"contrato_siad\" at position \"2\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
@@ -121323,8 +121323,8 @@
             "",
             "Não Disponível"
           ],
-          "rowNumber": 4640,
-          "rowPosition": 4641,
+          "rowNumber": 4644,
+          "rowPosition": 4645,
           "code": "type-error",
           "name": "Type Error",
           "tags": [
@@ -121333,7 +121333,7 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"Em andamento\" in row \"4641\" and field \"contrato_siad\" at position \"2\": type is \"integer/default\"",
+          "message": "Type error in the cell \"Em andamento\" in row \"4645\" and field \"contrato_siad\" at position \"2\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
@@ -121353,8 +121353,8 @@
             "",
             "Não Disponível"
           ],
-          "rowNumber": 4658,
-          "rowPosition": 4659,
+          "rowNumber": 4662,
+          "rowPosition": 4663,
           "code": "type-error",
           "name": "Type Error",
           "tags": [
@@ -121363,7 +121363,7 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"Em andamento\" in row \"4659\" and field \"contrato_siad\" at position \"2\": type is \"integer/default\"",
+          "message": "Type error in the cell \"Em andamento\" in row \"4663\" and field \"contrato_siad\" at position \"2\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
@@ -121383,8 +121383,8 @@
             "",
             "2301762 000016/2017"
           ],
-          "rowNumber": 4705,
-          "rowPosition": 4706,
+          "rowNumber": 4709,
+          "rowPosition": 4710,
           "code": "type-error",
           "name": "Type Error",
           "tags": [
@@ -121393,7 +121393,7 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"Concluído\" in row \"4706\" and field \"contrato_siad\" at position \"2\": type is \"integer/default\"",
+          "message": "Type error in the cell \"Concluído\" in row \"4710\" and field \"contrato_siad\" at position \"2\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
@@ -121413,8 +121413,8 @@
             "",
             "2301520 000013/2021"
           ],
-          "rowNumber": 4727,
-          "rowPosition": 4728,
+          "rowNumber": 4733,
+          "rowPosition": 4734,
           "code": "type-error",
           "name": "Type Error",
           "tags": [
@@ -121423,7 +121423,7 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"Extinto\" in row \"4728\" and field \"contrato_siad\" at position \"2\": type is \"integer/default\"",
+          "message": "Type error in the cell \"Extinto\" in row \"4734\" and field \"contrato_siad\" at position \"2\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
@@ -121443,8 +121443,8 @@
             "",
             "2301520 000006/2020"
           ],
-          "rowNumber": 4733,
-          "rowPosition": 4734,
+          "rowNumber": 4739,
+          "rowPosition": 4740,
           "code": "type-error",
           "name": "Type Error",
           "tags": [
@@ -121453,7 +121453,7 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"Rescindido\" in row \"4734\" and field \"contrato_siad\" at position \"2\": type is \"integer/default\"",
+          "message": "Type error in the cell \"Rescindido\" in row \"4740\" and field \"contrato_siad\" at position \"2\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         },
         {
@@ -121473,8 +121473,8 @@
             "",
             "Não Disponível"
           ],
-          "rowNumber": 4801,
-          "rowPosition": 4802,
+          "rowNumber": 4809,
+          "rowPosition": 4810,
           "code": "type-error",
           "name": "Type Error",
           "tags": [
@@ -121483,7 +121483,7 @@
             "#cell"
           ],
           "note": "type is \"integer/default\"",
-          "message": "Type error in the cell \"Em andamento\" in row \"4802\" and field \"contrato_siad\" at position \"2\": type is \"integer/default\"",
+          "message": "Type error in the cell \"Em andamento\" in row \"4810\" and field \"contrato_siad\" at position \"2\": type is \"integer/default\"",
           "description": "The value does not match the schema type and format for this field."
         }
       ],
